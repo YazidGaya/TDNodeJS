@@ -60,7 +60,7 @@ Récupèrer la liste de tous les utilisateurs avec : curl http://localhost:4000/
 Ajouter un nouvel utilisateur :
  curl -X POST http://localhost:4000/users \
   -H "Content-Type: application/json" \
-  -d "{\"name\":\"Alice\",\"email\":\"alice@example.com\"}" 
+  -d "{\"name\":\"Yazid\",\"email\":\"yazid@uphf.com\"}" 
 
 3. GET /users/:id
 Récupère un utilisateur par son identifiant MongoDB avec la commande : curl http://localhost:4000/users/<ID>
