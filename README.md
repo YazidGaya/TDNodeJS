@@ -1,7 +1,7 @@
 # API Node.js avec TypeScript, Gestion des utilisateurs
 
 #  Auteur : 
-Prénom : Yazid
+Prénom : Yazid,
 Nom : GAYA
 
 Projet réalisé dans le cadre du TP : Création d’API avec Node.js (Module : Développement web avancé).
